@@ -1,22 +1,29 @@
 
+
 # README #
+# Developer Challenge #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Please complete the challenge stated below.
 
-### What is this repository for? ###
+The first section is the instructions for how to set up the app.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Instructions ###
 
-### How do I get set up? ###
+* Sign up for a SAP Cloud Platform trial
+* Add the Northwind destination from this repository to your cloud cockpit
+* Fork this repository and fix the issues
+* Put the authentication method to none and deploy the app to your trial platform
+* Send the url for the repository and the app to us.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Issues ###
+
+* Change the table layout to include Customer Name | Order Date	| Employee Responsible | Order ID
+* Fix the Order ID to be a number without decimals
+* Append the search to be able to search on Employee Responsible as well as customer name
+* Fix the navigation to the object page
+
+[Optional]
+* Create a quickview for the employee responsible from the Employee Entityset with the following details
 
 ### Contribution guidelines ###
 
@@ -26,5 +33,6 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+
+* For questions, please contact:
+* jakob@bournedigitial.com.au or sophie@bournedigital.com.au
