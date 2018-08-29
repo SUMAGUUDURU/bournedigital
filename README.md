@@ -19,11 +19,15 @@ The first section is the instructions for how to set up the app.
 
 * Change the table layout to include Customer Name | Order Date	| Employee Responsible | Order ID
 * Fix the Order ID to be a number without decimals
+[](/img/Master.png)
 * Append the search to be able to search on Employee Responsible as well as customer name
 * Fix the navigation to the object page
+* Create the object page as the following screenshot
+[](/img/Detail.png)
 
 [Optional]
 * Create a quickview for the employee responsible from the Employee Entityset with the following details
+[](/img/Quickview.png)
 
 ### Contribution guidelines ###
 
