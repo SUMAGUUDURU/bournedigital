@@ -39,4 +39,4 @@ The first section is the instructions for how to set up the app.
 
 
 * For questions, please contact:
-* jakob@bournedigitial.com.au or sophie@bournedigital.com.au
+* jakob@bournedigitial.com.au or gippy@bournedigital.com.au
